@@ -1,0 +1,14 @@
+{
+  "name": "cypress_learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arif",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.0.3"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
+}
